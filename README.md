@@ -1,8 +1,8 @@
-Introduction
+<h3>Introduction</h3>
 Ο σκοπός της εργασίας ήταν η κατασκευή ενός εργαλείου μετατροπής συναλλάγματος, καθώς και του γραφικού
 του περιβάλλοντος.
 
-Για την υλοποίηση χρησιμοποιήθηκαν τα παρακάτω εργαλεία:
+<strong>Για την υλοποίηση χρησιμοποιήθηκαν τα παρακάτω εργαλεία:</strong>
 
 Back-End : {
 framework : node.js
@@ -14,9 +14,9 @@ framework : Vue.js
 modules : [ axios, bootstrap, bootstrap-vue, vuex, vue-router]
 }
 
-Getting Started
+<h4>Getting Started</h4>
 
-Back-End:
+<strong>Back-End:</strong>
 Στον φάκελο api βρίσκεται ο κώδικας του backend συστήματος:
 // Εκτελούμε node. στο index.js για να ξεκινήσει ο server
 index.js : Είναι ο κύριος κώδικας όπου αρχικοποιείται ο server, τα εργαλεία καθώς και δημιουργούνται όλα τα endpoints
@@ -26,7 +26,7 @@ databaseFunction.js : Εδώ δηλώνονται όλες οι συναρτήσ
 στα endpoints
 data.db : Η βάση δεδομένων (sqlite)
 // Η βάση παρέχεται αρχικοποιημένη, όμως δίνεται ο κώδικας εισόδου τιμών σε σχόλια
-Front-End :
+<strong>Front-End :</strong>
 Στον φάκελο app βρίσκεται ο κώδικας του frontend συστήματος, κύριοι φάκελοι είναι:
 // Εκτελούμε cd factsetCalc και έπειτα npm run dev
 components : Το σύνολο των εξαρτημάτων που χρησιμοποιήθηκαν στην εφαρμογή
@@ -35,23 +35,23 @@ services : Εδώ βρίσκονται το σύνολο των συναρτήσ
 views : Οι κύριες σελίδες της εφαρμογής
 main.js : Το κύριο javascript αρχείο της εφαρμογής, όπου γίνονται δηλώσεις βιβλιοθηκών και η αρχικοποίηση του vuex store
 
-User Interface Overview:
-HomePage
+<h4>User Interface Overview:</h4>
+<strong>HomePage</strong>
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 001](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/e28b0a1f-aedc-49dc-abb9-c3c849656eba)
 Home Button : Επιστροφή στην αρχική σελίδα
 Μετατροπέας συναλλάγματος. Ο χρήστης επιλέγει το πρώτο νόμισμα , έπειτα μπορεί να επιλέξει το δεύτερο
 απο την λίστα των δυνατών αποτέλεσμα. συνδυασμών και αφού προσθέσει και το ποσό μετατροπής εμφανίζεται το
 Λίστα καταχωρημένων συνδυασμών
 Πλήκτρα εισόδου ή δημιουργίας νέου λογαριασμού
-Login Page
+<strong>Login Page</strong>
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 002](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/97914191-da4c-4d4f-b5c5-3290beb336d9)
 
-SignUp Page
+<strong>SignUp Page</strong>
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 003](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/971325ba-6ba7-44e2-909a-c40c8b87215f)
 
-Tool while user logged in
+<strong>Tool while user logged in</strong>
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 004](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/888203f8-5fde-4d21-92b5-58146a39844d)
 
@@ -59,7 +59,7 @@ Navigate to update currencies page (Add/Edit)
 Navigate to update exchange rates page (Add/Edit)
 Delete exchange rate
 Log Out button: Αποσυνδέει τον χρήστη
-Update Currency Page
+<strong>Update Currency Page</strong>
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 005](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/8c13465e-a80d-4cd1-8365-8ff5a0e4cf0c)
 
@@ -73,7 +73,7 @@ symbol : any character
 Επεξεργασία υπάρχοντος νομίσματος
 // ισχύουν οι ίδιοι κανόνες
 // αν παραμείνει κάποιο πεδίο κενό διατηρούνται οι προηγούμενες τιμές στο συγκεκριμένο πεδίο
-Update Exchange Rate Page
+<Strong>Update Exchange Rate Page</strong>
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 006](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/de7ec31a-9a10-4163-86b2-f67e0246a803)
 
