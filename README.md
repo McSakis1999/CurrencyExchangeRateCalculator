@@ -1,4 +1,4 @@
-![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 002](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/53312267-18b9-4c1d-bc58-904ff344f9ce)Introduction
+Introduction
 Ο σκοπός της εργασίας ήταν η κατασκευή ενός εργαλείου μετατροπής συναλλάγματος, καθώς και του γραφικού
 του περιβάλλοντος.
 Για την υλοποίηση χρησιμοποιήθηκαν τα παρακάτω εργαλεία:
