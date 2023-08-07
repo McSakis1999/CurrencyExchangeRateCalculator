@@ -63,8 +63,6 @@ Log Out button: Αποσυνδέει τον χρήστη
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 005](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/8c13465e-a80d-4cd1-8365-8ff5a0e4cf0c)
 
-1.
-
 Προσθήκη νέου νομίσματος με την καταχώρηση των παρακάτω:
 name : any character [a-zA-Z]+
 code : any 3 characters [a-zA-Z]+
@@ -73,6 +71,7 @@ symbol : any character
 Επεξεργασία υπάρχοντος νομίσματος
 // ισχύουν οι ίδιοι κανόνες
 // αν παραμείνει κάποιο πεδίο κενό διατηρούνται οι προηγούμενες τιμές στο συγκεκριμένο πεδίο
+
 <Strong>Update Exchange Rate Page</strong>
 
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 006](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/de7ec31a-9a10-4163-86b2-f67e0246a803)
