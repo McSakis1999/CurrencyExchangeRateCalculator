@@ -1,16 +1,21 @@
 Introduction
 Ο σκοπός της εργασίας ήταν η κατασκευή ενός εργαλείου μετατροπής συναλλάγματος, καθώς και του γραφικού
 του περιβάλλοντος.
+
 Για την υλοποίηση χρησιμοποιήθηκαν τα παρακάτω εργαλεία:
+
 Back-End : {
 framework : node.js
 modules : [ express, sqlite, body-parser, cors ]
 }
+
 Front-End : {
 framework : Vue.js
 modules : [ axios, bootstrap, bootstrap-vue, vuex, vue-router]
 }
+
 Getting Started
+
 Back-End:
 Στον φάκελο api βρίσκεται ο κώδικας του backend συστήματος:
 // Εκτελούμε node. στο index.js για να ξεκινήσει ο server
@@ -47,6 +52,7 @@ SignUp Page
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 003](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/971325ba-6ba7-44e2-909a-c40c8b87215f)
 
 Tool while user logged in
+
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 004](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/888203f8-5fde-4d21-92b5-58146a39844d)
 
 Navigate to update currencies page (Add/Edit)
