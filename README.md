@@ -37,7 +37,9 @@ main.js : Το κύριο javascript αρχείο της εφαρμογής, ό�
 
 <h4>User Interface Overview:</h4>
 <strong>HomePage</strong>
+
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 001](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/e28b0a1f-aedc-49dc-abb9-c3c849656eba)
+
 Home Button : Επιστροφή στην αρχική σελίδα
 Μετατροπέας συναλλάγματος. Ο χρήστης επιλέγει το πρώτο νόμισμα , έπειτα μπορεί να επιλέξει το δεύτερο
 απο την λίστα των δυνατών αποτέλεσμα. συνδυασμών και αφού προσθέσει και το ποσό μετατροπής εμφανίζεται το
