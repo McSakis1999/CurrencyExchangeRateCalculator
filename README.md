@@ -39,18 +39,22 @@ Home Button : Επιστροφή στην αρχική σελίδα
 Λίστα καταχωρημένων συνδυασμών
 Πλήκτρα εισόδου ή δημιουργίας νέου λογαριασμού
 Login Page
+
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 002](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/97914191-da4c-4d4f-b5c5-3290beb336d9)
 
 SignUp Page
+
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 003](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/971325ba-6ba7-44e2-909a-c40c8b87215f)
 
 Tool while user logged in
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 004](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/888203f8-5fde-4d21-92b5-58146a39844d)
+
 Navigate to update currencies page (Add/Edit)
 Navigate to update exchange rates page (Add/Edit)
 Delete exchange rate
 Log Out button: Αποσυνδέει τον χρήστη
 Update Currency Page
+
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 005](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/8c13465e-a80d-4cd1-8365-8ff5a0e4cf0c)
 
 1.
@@ -64,6 +68,7 @@ symbol : any character
 // ισχύουν οι ίδιοι κανόνες
 // αν παραμείνει κάποιο πεδίο κενό διατηρούνται οι προηγούμενες τιμές στο συγκεκριμένο πεδίο
 Update Exchange Rate Page
+
 ![Aspose Words 597c77b5-e8f5-4094-a157-b35c9bb43742 006](https://github.com/McSakis1999/CurrencyExchangeRateCalculator/assets/58091482/de7ec31a-9a10-4163-86b2-f67e0246a803)
 
 Δημιουργίας νέου ζευγαριού νομισμάτων επιλέγοντας δύο υπάρχοντα και καταχωρόντας την νέα τιμή
